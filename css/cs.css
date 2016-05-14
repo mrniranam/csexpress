@@ -1,0 +1,68 @@
+@font-face {
+  font-family: "ThaiSansNeue";
+  src: url("../fonts/ThaiSansNeue-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "ThaiSansNeue";
+  src: url("../fonts/ThaiSansNeue-Bold.ttf");
+  font-weight: bold;
+  font-style: normal;
+}
+.thaisan{
+	font-family: "ThaiSansNeue";
+}
+
+h1{
+	font-size: 4.2em;
+}
+h2{
+	font-size: 4em;
+}
+h3{
+	font-size: 3em;
+}
+p{
+	font-size: 2em;
+}
+b{
+	font-size: 2em;
+}
+table{
+	font-size: 1.7em;
+}
+@media (max-width: 1366px){
+	.csslide{
+		margin-top: 3%;
+	}
+}
+@media (max-width: 768px){
+	.csslide{
+		margin-top: 6.5%;
+	}
+}
+@media (max-width: 378px){
+	.csslide{
+		margin-top: 14%;
+	}
+}
+.express{
+	background-color: red;
+}
+.csslide{
+	margin-top: 2.5%;
+}
+.packbuttom{
+	padding: 1% 25%;
+}
+.body_full{
+	height: 100%;
+}
+.csfrom{
+	font-size: 1em;
+}
+.searchfrom{
+	margin: 1% 1% 1% 1%;
+}
